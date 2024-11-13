@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  FIVETECH | https://explorer.fivetech.pro  | https://x.com/phamvannamdc  |  AMERICAN, EU | https://github.com/fivetech-validator  | phamvannamdc@gmail.com  | FIVETECH  | 9EE1EEED28E8627828D2F41A16BE3CF88D60FEB65892AC4026EDA9C9271274F2  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
